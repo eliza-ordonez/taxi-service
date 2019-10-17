@@ -1,4 +1,4 @@
-# taxi-service
+# Taxi Service Program
 
 Authors: Tristan Guinto
 	 Andrew Huynh
